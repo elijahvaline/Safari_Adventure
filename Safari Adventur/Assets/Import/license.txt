@@ -1,0 +1,11 @@
+Model Information:
+* title:	African Plain Trees
+* source:	https://sketchfab.com/3d-models/african-plain-trees-c19db0db391f424f975a895a810aeca3
+* author:	michael.evan.allison (https://sketchfab.com/michael.evan.allison)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "African Plain Trees" (https://sketchfab.com/3d-models/african-plain-trees-c19db0db391f424f975a895a810aeca3) by michael.evan.allison (https://sketchfab.com/michael.evan.allison) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
