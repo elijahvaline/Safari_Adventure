@@ -1,0 +1,11 @@
+Model Information:
+* title:	Alex V2 - Madagascar
+* source:	https://sketchfab.com/3d-models/alex-v2-madagascar-0363880cf15a41a69e2d5d4283630a5d
+* author:	guinavarro.al (https://sketchfab.com/guinavarro.al)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Alex V2 - Madagascar" (https://sketchfab.com/3d-models/alex-v2-madagascar-0363880cf15a41a69e2d5d4283630a5d) by guinavarro.al (https://sketchfab.com/guinavarro.al) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

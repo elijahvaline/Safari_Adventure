@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elephant in the Rotunda
+* source:	https://sketchfab.com/3d-models/elephant-in-the-rotunda-26ee59c981964681bf9f4e5eae2a3a26
+* author:	Abby Gancz (https://sketchfab.com/agancz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elephant in the Rotunda" (https://sketchfab.com/3d-models/elephant-in-the-rotunda-26ee59c981964681bf9f4e5eae2a3a26) by Abby Gancz (https://sketchfab.com/agancz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
