@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/New Terrain.unity
+- path: Assets/Scenes/New Terrain w Water.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
